@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋 My name is btCC</h1>
 
 <p align="center">
-  💻 Desktop Application Developer | 🔬 Reverse Engineer | ⚙️ Rust & NASM
+  💻 Desktop Application Developer | 🔬 Reverse Engineer | ⚙️ Rust & ASM
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🧩 About Me
 
 * 🔥 Confident in **Rust** for building robust, high-performance desktop applications.
-* 🧠 Experienced in **Reverse Engineering** methodologies, security analysis, and low-level debugging. Currently learning **NASM** (Netwide Assembler) to deepen knowledge of **system internals** and assembly code.
+* 🧠 Experienced in **Reverse Engineering** methodologies, security analysis, and low-level debugging. Currently learning **Assembly Language (ASM)** to deepen knowledge of **system internals** and low-level programming.
 * 🌍 Specializing in creating stable, secure, and resource-efficient desktop solutions using modern safety features.
 * 🎯 Passionate about exploring system architecture and writing **clean, efficient code** in Rust and assembly.
 
@@ -18,5 +18,5 @@
 ### ⚙️ My Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nasm,rust,idea" />
+  <img src="https://skillicons.dev/icons?i=asm,rust,idea" />
 </p>
