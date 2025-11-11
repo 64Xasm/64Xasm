@@ -18,5 +18,5 @@
 ### ⚙️ My Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,rust,nodejs,html,css,js,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,rust,JetBrains" />
 </p>
