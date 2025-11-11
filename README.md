@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋 My name is btCC</h1>
 
 <p align="center">
-  💻 Desktop Application Developer | 🔬 Reverse Engineer | ⚙️ C++ & Rust
+  💻 Desktop Application Developer | 🔬 Reverse Engineer | ⚙️ C/C++ & Rust
 </p>
 
 ---
@@ -18,5 +18,5 @@
 ### ⚙️ My Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,rust,JetBrains" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,rust,idea" />
 </p>
