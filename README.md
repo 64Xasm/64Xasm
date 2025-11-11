@@ -18,5 +18,5 @@
 ### ⚙️ My Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=assembly,rust,idea" />
+  <img src="https://skillicons.dev/icons?i=nasm,rust,idea" />
 </p>
