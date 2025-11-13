@@ -19,13 +19,9 @@
 ### ⚙️ My Tech Stack
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=rust,linux,assembly" />
+    <img src="https://skillicons.dev/icons?i=rust,linux,github" />
 </p>
 
 ---
 
-### 📈 GitHub Stats (Optional)
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=btCC&show_icons=true&theme=dark" alt="btCC's GitHub Stats" />
-</p>
