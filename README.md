@@ -19,7 +19,7 @@
 ### ⚙️ My Tech Stack
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=rust,linux,github" />
+    <img src="https://skillicons.dev/icons?i=rust,nixos,github" />
 </p>
 
 ---
